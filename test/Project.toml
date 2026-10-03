@@ -1,0 +1,6 @@
+[deps]
+Pileup = "baf5adb1-8445-4854-8c99-bbafd60628a7"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[sources]
+Pileup = {path = ".."}
