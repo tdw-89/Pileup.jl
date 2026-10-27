@@ -1,3 +1,4 @@
 *.json
 *.parquet
+test_data.tar.zst
 Manifest.toml

@@ -1,5 +1,5 @@
 name = "Pileup"
-uuid = "BAF5ADB1-8445-4854-8C99-BBAFD60628A7"
+uuid = "baf5adb1-8445-4854-8c99-bbafd60628a7"
 version = "0.1.0"
 authors = ["Tom Wolfe <thomas_wolfe@student.uml.edu>"]
 
@@ -8,3 +8,7 @@ CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 DuckDB = "d2f5444f-75bc-4fdf-ac35-56f514c445e1"
 Parquet = "626c502c-15b0-58ad-a749-f091afb673ae"
+Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
+
+[compat]
+Turing = "0.49.0"
